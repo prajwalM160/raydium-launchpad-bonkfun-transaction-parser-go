@@ -1,5 +1,5 @@
 
-# Raydium Launchpad Go
+# Raydium Launchpad (Bonkfun) Transaction Parser Go
 
 The task can be split into two parts:
 
