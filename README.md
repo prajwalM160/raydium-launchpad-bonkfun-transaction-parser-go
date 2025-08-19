@@ -6,6 +6,10 @@ The task can be split into two parts:
 1. Transaction parsing (Geyser)
 2. Transaction sending (buy/sell before and after migration)
 
+## Contact
+
+If you wanna build this kind of project, feel free contact here: [Telegram](https://t.me/shiny0103)
+
 ## 1. Parsing
 You need to take the raw transaction data (its level-1 and level-2 instructions in the Geyser format)
 and convert it into a structure we understand. This might be:
