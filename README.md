@@ -8,7 +8,7 @@ The task can be split into two parts:
 
 ## Contact
 
-If you wanna build this kind of project, feel free contact here: [Telegram](https://t.me/shiny0103)
+If you wanna build this kind of project, feel free contact here: [Telegram](https://t.me/satscorder) | [Twitter](https://x.com/satcorder33)
 
 ## 1. Parsing
 You need to take the raw transaction data (its level-1 and level-2 instructions in the Geyser format)
